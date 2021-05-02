@@ -1,0 +1,4 @@
+*.pyc
+imageRepo/imageRepo/__pycache__
+imageRepo/imageRepo/tests/__pycache__
+../.vscode/
